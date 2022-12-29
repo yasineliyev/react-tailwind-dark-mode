@@ -1,2 +1,2 @@
 # Demo
-react-tailwind-dark-mode.netlify.app
+https://react-tailwind-dark-mode.netlify.app/
